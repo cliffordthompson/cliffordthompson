@@ -1,4 +1,8 @@
-## Hi there 👋
+Clifford is an accomplished Software Engineer with experience working on both large and small scale projects for a diverse range of clients. He has worked with teams of varying sizes and skill sets, has a proven track record of performing both as a team member and as an engineering leader, and has worked in both Agile and traditional project styles. He has worked with teams in both on-premise and remote styles, has over 4 years experience working remotely, over 5 years experience leading teams directly, which includes 2 years experience leading teams remotely.
+
+Clifford’s passion for applying proven software engineering techniques helps him create solutions that are maintainable, and meet the needs of clients. In addition to his professional experience, he also brings a solid educational background, with both Bachelor’s and Master’s degrees in Computer Science.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cliffordthompson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **cliffordthompson/cliffordthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

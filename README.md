@@ -4,6 +4,7 @@ Clifford’s passion for applying proven software engineering techniques helps h
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cliffordthompson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+[![Clifford Thompson profile views](https://u8views.com/api/v1/github/profiles/10042762/views/day-week-month-total-count.svg)](https://u8views.com/github/cliffordthompson)
 <!--
 **cliffordthompson/cliffordthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
